@@ -1,6 +1,6 @@
 package com.mansoul.mvptraing.model.imp;
 
-import com.mansoul.mvptraing.App.Constant;
+import com.mansoul.mvptraing.app.Constant;
 import com.mansoul.mvptraing.bean.GankGirl;
 import com.mansoul.mvptraing.http.NetService;
 import com.mansoul.mvptraing.http.HttpManager;

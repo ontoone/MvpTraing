@@ -1,4 +1,4 @@
-package com.mansoul.mvptraing.App;
+package com.mansoul.mvptraing.app;
 
 /**
  * Created by Mansoul on 16/9/9.
