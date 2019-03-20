@@ -1,3 +1,3 @@
 # MvpTraing
-MVP+RxJava+Retrofit Teaching
+MVP+RxJava+Retrofit
 
